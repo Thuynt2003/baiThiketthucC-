@@ -1,0 +1,15 @@
+D:\Bai tap\C#\GeometryExample\bin\Debug\net6.0\GeometryExample.exe
+D:\Bai tap\C#\GeometryExample\bin\Debug\net6.0\GeometryExample.deps.json
+D:\Bai tap\C#\GeometryExample\bin\Debug\net6.0\GeometryExample.runtimeconfig.json
+D:\Bai tap\C#\GeometryExample\bin\Debug\net6.0\GeometryExample.dll
+D:\Bai tap\C#\GeometryExample\bin\Debug\net6.0\GeometryExample.pdb
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.csproj.AssemblyReference.cache
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.AssemblyInfoInputs.cache
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.AssemblyInfo.cs
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.csproj.CoreCompileInputs.cache
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.dll
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\refint\GeometryExample.dll
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.pdb
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\GeometryExample.genruntimeconfig.cache
+D:\Bai tap\C#\GeometryExample\obj\Debug\net6.0\ref\GeometryExample.dll
