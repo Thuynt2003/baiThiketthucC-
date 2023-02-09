@@ -2,6 +2,7 @@
 
 class Program
 {
+    //Exam 1
     static void Main1(string[] args)
     {
         Cylinder cl = new Cylinder();
@@ -14,6 +15,7 @@ class Program
         cl.Result();
 
     }
+    //Exam2
     static void Main(string[] args)
     {
         Lion l = new Lion();
